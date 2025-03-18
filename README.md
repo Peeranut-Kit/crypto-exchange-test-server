@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/1ioOqhNdYQzOG6IUY8hjC6_xTc6LC7btn/view?usp=sharing
 
 # Project
-This project is developed by using expressJS library with MongoDB and Mongoose
+This project is developed by using ExpressJS library with MongoDB and Mongoose
 
 ## API Endpoints
 ### User
