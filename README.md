@@ -6,6 +6,17 @@ https://drive.google.com/file/d/1ioOqhNdYQzOG6IUY8hjC6_xTc6LC7btn/view?usp=shari
 # Project
 This project is developed by using ExpressJS library with MongoDB and Mongoose
 
+## Setup Project and Run
+1. ```git clone https://github.com/Peeranut-Kit/crypto_exchange_test_server.git```
+
+2. ```cd crypto_exchange_test_server```
+
+3. ```npm install```
+
+4. ```docker-compose up -d```
+
+5. ```node seed.js (seed ข้อมูล เพื่อใช้ในการทดสอบ)```
+
 ## API Endpoints
 ### User
 POST /api/v1/users/register
@@ -48,15 +59,5 @@ Get all transactions for the logged-in user. (Protected route)
 POST /api/v1/transactions
 Create a new transaction. (Protected route)
 
-  Each of these endpoints has different methods and access control based on user authentication and authorization. Make sure to use proper credentials when accessing protected routes.
 
-## Setup Project and Run
-1. ```git clone https://github.com/Peeranut-Kit/crypto_exchange_test_server.git```
-
-2. ```cd crypto_exchange_test_server```
-
-3. ```npm install```
-
-4. ```docker-compose up -d```
-
-5. ```node seed.js (seed ข้อมูล เพื่อใช้ในการทดสอบ)```
+Each of these endpoints has different methods and access control based on user authentication and authorization. Make sure to use proper credentials when accessing protected routes.
