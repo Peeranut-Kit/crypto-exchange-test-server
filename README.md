@@ -48,15 +48,15 @@ Get all transactions for the logged-in user. (Protected route)
 POST /api/v1/transactions
 Create a new transaction. (Protected route)
 
-Each of these endpoints has different methods and access control based on user authentication and authorization. Make sure to use proper credentials when accessing protected routes.
+  Each of these endpoints has different methods and access control based on user authentication and authorization. Make sure to use proper credentials when accessing protected routes.
 
 ## Setup Project and Run
-```git clone https://github.com/Peeranut-Kit/crypto_exchange_test_server.git```
+1. ```git clone https://github.com/Peeranut-Kit/crypto_exchange_test_server.git```
 
-```cd crypto_exchange_test_server```
+2. ```cd crypto_exchange_test_server```
 
-```npm install```
+3. ```npm install```
 
-```docker-compose up -d```
+4. ```docker-compose up -d```
 
-```node seed.js (seed ข้อมูล เพื่อใช้ในการทดสอบ)```
+5. ```node seed.js (seed ข้อมูล เพื่อใช้ในการทดสอบ)```
