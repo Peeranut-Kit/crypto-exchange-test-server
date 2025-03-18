@@ -1,6 +1,6 @@
 # crypto_exchange_test_server
 
-# ER Diagram
+### ER Diagram
 https://drive.google.com/file/d/1ioOqhNdYQzOG6IUY8hjC6_xTc6LC7btn/view?usp=sharing
 
 # Project
