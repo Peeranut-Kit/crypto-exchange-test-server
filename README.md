@@ -1,4 +1,4 @@
-# crypto_exchange_test_server
+# crypto-exchange-test-server
 
 ### ER Diagram
 https://drive.google.com/file/d/1ioOqhNdYQzOG6IUY8hjC6_xTc6LC7btn/view?usp=sharing
